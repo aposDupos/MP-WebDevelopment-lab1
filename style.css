@@ -43,7 +43,6 @@
 img {
     max-width: 400px;
     max-height: 400px;
-    padding: 1em 0;
     flex-basis: auto;
     padding: 1em;
 }
